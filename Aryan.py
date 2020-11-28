@@ -1,9 +1,9 @@
  
-@@ -1,7 +1,7 @@
-# Compile By KING-TEBE 
-# YouTube KING-TEBE 
-# https://github.com/KING-TEBE/404 
-# WhatsApp 082121902263 
+
+ 
+
+
+
 # Compile By Aryan_Hacker 
 # YouTube ARYAN_HACK
 # https://github.com/Aryanjan002/Aryan_fchack1
